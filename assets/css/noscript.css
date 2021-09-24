@@ -1,0 +1,9 @@
+/* Loader com efeito antes de depois (dispois igual os nordestinos dizem kkkkk) */
+
+body.landing.is-preload:before {
+    display: none;
+}
+
+body.landing.is-preload:after {
+    display: none;
+}
